@@ -1,5 +1,9 @@
 # request
 
+### API
+- `func Get(url string) ([]byte, error)`: common function to parse url to html string(with uft8 encoding)
+- `func Fetch(url string) ([]byte, error)`: this function is upper lever for Get, so it can be used for crawler
+
 ```go
 package main
 
