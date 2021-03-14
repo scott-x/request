@@ -1,3 +1,5 @@
+github.com/scott-x/crawler-car v0.0.0-20210314191558-5243b37227d1 h1:Ry6ZWzI+91nzP5xHO4Ahynxif/B+2JhO+hbdzcmTsLQ=
+github.com/scott-x/crawler-car v0.0.0-20210314191558-5243b37227d1/go.mod h1:xXm5NSx0F3O8jF/WVbesFZGB9bE2AFIXGwJeRVsMzr0=
 golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 h1:qWPm9rbaAMKs8Bq/9LRpbMqxWRVUAQwMI9fVrssnTfw=
 golang.org/x/net v0.0.0-20210226172049-e18ecbb05110/go.mod h1:m0MpNAwzfU5UDzcl9v0D8zg8gWTRqZa9RBIspLL5mdg=
 golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=

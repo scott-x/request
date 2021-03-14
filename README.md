@@ -14,3 +14,10 @@ func main() {
 	fmt.Println(string(content))
 }
 ```
+
+### tools
+
+```bash
+go install github.com/scott-x/request/cmd/request
+request -url http://xxx.xx #determine if the url supports crawler
+```
